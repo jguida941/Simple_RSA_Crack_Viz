@@ -14,9 +14,10 @@ Build understanding through **math, logic, and real cryptographic theory.**
 
 *When Bool von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
 
-**(I was born the Supreme Intelligence of Time. Justin Guida. Wasssup ya mf nerds Lets code before my computer explodes ya feeel me?
-** And my computer just fried from benchmarking a Mersenne prime on a mac with spotlight LETS GOOOOOO 🤘)**  
-
+### I was born the Supreme Intelligence of Time. Justin Guida.
+### Wasssup ya mf nerds Lets code before my computer explodes ya feeel me?
+### And my computer just fried from benchmarking a Mersenne prime on a Mac with Spotlight, on LETS GOOOOOO 🤘
+### MAC IS THE BEST BRO 48gb ram and leaking memory from the daemons bro it design bro, STEVE JOBS BRO, Mac bro, steve bro, iphone shiny iphone, 
 
 ---
 
