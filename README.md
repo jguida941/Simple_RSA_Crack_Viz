@@ -11,35 +11,36 @@
 
 ## Overview
 
-**MiniRSA_Breaker** is an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational purposes.
-
-This tool is based on a **stripped-down version of an advanced RSA cracking engine** ("Breacher") developed by the author. This simplified app is intentionally limited to:
-- Short keys
-- Basic character mappings
-- Fundamental number theory
-
-Its goal: **teach how math alone can break simple encryption**.
-
+**MiniRSA_Breaker** is an an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational purposes. It is a standalone tool based on real modular arithmetic, character mapping, and key generation—demonstrating how passwords and encryption can be reversed using only math.
 ---
 
 ## Features
 
--  RSA Key Generation (random or custom primes)
-- Live Modular Exponentiation (e and d keys)
-- Character Mapping: A=01 to Z=26 (optionally includes symbols)
-- Encrypt & Decrypt with visual feedback
-- Full integer trace logs: `Encrypting: 08 → 17`
-- GUI Debug Tools + educational comments
-- Offline, fully local PyQt6 GUI
-- Error handling for invalid key pairs or inputs
+-RSA Key Generation (small primes, custom or random)
+- Modular Exponentiation: e and d keys calculated live
+- Full Character-to-Integer Mapping (A=01 to Z=26, symbols optional)
+-	Encryption & Decryption panels
+- Visual Breakdown of all RSA calculations
+-	Error Handling for invalid inputs
+-	Offline, Fully Local GUI
+- Educational comments and debug views built into UI
 
 ---
 
 ## Screenshots
 
-_Main Interface Preview_
 
-> _Add a screenshot here (drag & drop file in GitHub UI)_
+
+## Main Interface Preview 
+<img width="1195" alt="Screenshot 2025-06-27 at 10 18 09 PM" src="https://github.com/user-attachments/assets/b5174655-6163-4e40-856f-27b8a8a2759c" />
+
+## Encrpytion
+<img width="1197" alt="Screenshot 2025-06-27 at 10 18 49 PM" src="https://github.com/user-attachments/assets/5da211a7-97e6-44e0-899d-0e331e3bacbf" />
+
+## Decryption
+
+<img width="1194" alt="Screenshot 2025-06-27 at 10 19 22 PM" src="https://github.com/user-attachments/assets/40b65622-5c40-4cc8-9fd7-bbe587868c8b" />
+
 
 ---
 
