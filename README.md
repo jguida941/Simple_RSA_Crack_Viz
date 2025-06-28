@@ -110,7 +110,7 @@ Toggle debug mode to show raw values, intermediate results, and contextual expla
 
 ---
 
-## 🚀  How to Run on windows:
+## 🚀  How to Run:
 
 Follow these steps to launch **MiniRSA_Breaker** locally:
 
@@ -135,7 +135,7 @@ pip install -r requirements.txt
 ```bash
 python rsa.py
 ```
-##  How to Run on macOS:
+##  How to it really Runs on macOS:
 
 <h2>🗑️🔥 How to Run on macOS:</h2>
 
