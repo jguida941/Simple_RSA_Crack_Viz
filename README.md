@@ -4,12 +4,8 @@
 **Tech Stack:** Python, PyQt6  
 **Author:** [Justin Guida](https://github.com/jguida941)  
 **Resume:** [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
+**⭐ If you find this project useful, please consider starring it!**
 
-⭐️ If You Enjoyed This Project
-
-If this helped you learn something or you’re using it in your classroom,
-please consider giving the repo a star. It helps others find the project and shows support for free open-source education.
----
 
 Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
 **this tool was built for you**
@@ -20,7 +16,7 @@ Whether you're a **teacher**, a **CS student**, or just **someone fascinated by 
 ---
 
 
-## ✨ Features
+# ✨ Features
 
 **RSA Key Generation**  
 Generate custom or random small prime keys instantly.
