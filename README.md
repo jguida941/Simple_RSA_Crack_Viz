@@ -10,25 +10,6 @@
 **⭐** **If you find this project useful, please consider starring it!**
  
 
-<h2>Learn from the Best:y</h2>
-<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" style="padding:10px 16px;background:#006400;color:white;border-radius:8px;margin-right:8px;text-decoration:none;">
-  
-   FreeCodeCamp: Scientific Python
-  
-</a>
-<a href="https://cs50.harvard.edu/x/2024/" target="_blank" style="padding:10px 16px;background:#a41034;color:white;border-radius:8px;margin-right:8px;text-decoration:none;">
-  
-   Harvard CS50x 2024
-  
-</a>
-<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-special-methods-by-building-a-vector-space" target="_blank" style="padding:10px 16px;background:#4B0082;color:white;border-radius:8px;text-decoration:none;">
-  
-   Cryptographic Methods
-  
-</a>
-
-
-
 Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
 **this tool was built for you**
 
@@ -149,5 +130,22 @@ Educators and students are encouraged to:
 
 ---
 
-##  Attribution Link
+##  Attribution Link to learn about scientific computing and cyrptology.
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+<h2>Learn from the Best:</h2>
+<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" style="padding:10px 16px;background:#006400;color:white;border-radius:8px;margin-right:8px;text-decoration:none;">
+  
+   FreeCodeCamp: Scientific Python
+  
+</a>
+<a href="https://cs50.harvard.edu/x/2024/" target="_blank" style="padding:10px 16px;background:#a41034;color:white;border-radius:8px;margin-right:8px;text-decoration:none;">
+  
+   Harvard CS50x 2024
+  
+</a>
+<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-special-methods-by-building-a-vector-space" target="_blank" style="padding:10px 16px;background:#4B0082;color:white;border-radius:8px;text-decoration:none;">
+  
+   Cryptographic Methods
+  
+</a>
