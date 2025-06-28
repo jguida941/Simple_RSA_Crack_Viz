@@ -26,7 +26,6 @@ It is a standalone tool based on real modular arithmetic, character mapping, and
 -	Offline, Fully Local GUI
 - Educational comments and debug views built into UI
 
----
 
 ## Screenshots
 
@@ -42,6 +41,34 @@ It is a standalone tool based on real modular arithmetic, character mapping, and
 
 <img width="1194" alt="Screenshot 2025-06-27 at 10 19 22 PM" src="https://github.com/user-attachments/assets/40b65622-5c40-4cc8-9fd7-bbe587868c8b" />
 
+
+---
+
+---
+
+## How to Run
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/jguida941/MiniRSA_Breaker.git
+    cd MiniRSA_Breaker
+    ```
+
+2.  **Set up a virtual environment (recommended):**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+3.  **Install the required packages:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Run the application:**
+    ```bash
+    python rsa.py
+    ```
 
 ---
 

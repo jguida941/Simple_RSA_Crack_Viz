@@ -1,0 +1,3 @@
+PyQt6
+sympy
+pycryptodome 
