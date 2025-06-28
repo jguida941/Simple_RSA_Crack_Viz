@@ -9,7 +9,8 @@
 ## Overview
 
 **MiniRSA_Breaker** is an an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational purposes. 
-**It is a standalone tool based on real modular arithmetic, character mapping, and key generation—demonstrating how passwords and encryption can be reversed using only math.
+
+## It is a standalone tool based on real modular arithmetic, character mapping, and key generation—demonstrating how passwords and encryption can be reversed using only math.
 ---
 
 ## Features
