@@ -10,7 +10,7 @@ Build understanding through **math, logic, and real cryptographic theory.**
 
 ---
 
-### 🧠 Designed by:
+## 🧠 Designed by:
 
 *When Bool von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
 
@@ -87,7 +87,7 @@ Runs entirely on your device , no web server, no uploads, just fast, secure loca
 **Debug Mode & Educational Hints**  
 Toggle debug mode to show raw values, intermediate results, and contextual explanations at every step.
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 ## Main Interface RSA Setup  
 **Define primes, generate public/private keys, and view entropy ratings in real time.**
@@ -136,75 +136,83 @@ pip install -r requirements.txt
 python rsa.py
 ```
 
+<h2>🗑️🔥 How it <i>Really</i> Runs on macOS:</h2>
 
-## <h2>🗑️🔥 How it really Runs on macOS:</h2>
+<p>
+App runs fully offline — no network needed, just on Steve Jobs’ soul.<br>
+Plus Spotlight probably bricked your system already.
+</p>
 
-<p>App runs fully offline  no network needed, just on Steve Jobs’ soul, plus splotlight prob bricked your shit already.</p>
+<p><b>Step 1:</b> Be ready for <code>mds</code>, <code>mdworker</code>, <code>corespotlightd</code>, <code>sysmond</code> —  
+the whole squad wakes up like it’s <b>DEFCON 1</b> and starts re-indexing 48GB of RAM  
+while you’re just trying to run a prime test.</p>
 
 <pre><code>
 [BOOT]    Initializing MiniRSA_Breaker v1337.420.69
-[INFO]    Benchmarking Mode: ⚡ Mersenne Prime Detected
-[WARNING] macOS daemons detected suspicious genius at PID 1337
+[INFO]    Benchmarking Mode: ⚡ Mersenne Prime Detected. 1000GB to SSD — BRO.
+[WARNING] macOS daemons detected suspicious genius at PID 1337 — Spotlight auto-enabled: “World’s Smartest Dev Detected”
 [ALERT]   RAM leaking ideas per nanosecond — cannot patch intelligence overflow
+           Head Apple designer: “It’s design, bro.”
 [SYS]     Spotlight tried to index thought… failed.
+           iPhone camera 4x, bro. It's magic.
 [SYS]     launchd attempted to sandbox the Supreme Intelligence… denied.
-[CRITICAL] GUI kernel detected sarcasm-to-math compiler at 98% CPU
-[ALERT]   SYSTEM DESIGN OVERRIDE ENABLED
-[ALERT]   ML mode activated without user consent — it’s thinking faster than TensorFlow
-[DEBUG]   Logger overwhelmed, fell back to writing on nearest napkin
-[FAIL]    Apple M4 throttled due to raw IQ — fan speed insufficient for this much truth
+[CRITICAL] GUI kernel at 98% CPU — M4 triggered kernel dump, 50GB of mental models.
+[ALERT]   SYSTEM DESIGN OVERRIDE ENABLED — “Let’s keep it running tho. M4, bro.”
+[ALERT]   ML mode activated without user consent — thinking faster than TensorFlow
+          because it runs in Steve Jobs’ will.
+[DEBUG]   Logger overwhelmed — fell back to writing on nearest napkin.
+[FAIL]    Apple M4 throttled due to raw IQ — fan speed insufficient for this much truth.
 [INFO]    Transferring control to: Bool von Braun Einstein Ramanujan, The S.i.T.
-[STATUS]  RUNNING IN GODMODE 
+[STATUS]  RUNNING IN GODMODE 🔥
 </code></pre>
 
-# 📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+<hr>
 
-© 2025 Justin Guida  
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+<h3>📄 License: <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></h3>
 
----
+<p>© 2025 <b>Justin Guida</b><br>
+This project is licensed under the <b>Creative Commons Attribution-NonCommercial 4.0 International License</b>.</p>
 
-###  You May:
--  **Share** — Copy, distribute, and share the code  
-- **Adapt** — Remix, transform, or build upon it for personal or academic purposes  
+<h4>You May:</h4>
+<ul>
+  <li><b>Share</b> — Copy, distribute, and share the code</li>
+  <li><b>Adapt</b> — Remix, transform, or build upon it for personal or academic purposes</li>
+</ul>
 
-###  You May Not:
-- Use this work for commercial purposes  
-- Sell, rebrand, or repackage this project for profit  
+<h4> You May Not:</h4>
+<ul>
+  <li>Use this work for commercial purposes</li>
+  <li>Sell, rebrand, or repackage this project for profit</li>
+</ul>
 
-###  You Must:
-- Credit the original author clearly:
-  - **Name:** Justin Guida  
-  - **Year:** 2025  
-  - **GitHub:** [https://github.com/jguida941](https://github.com/jguida941)
+<h4>📢 You Must:</h4>
+<ul>
+  <li>Credit the original author clearly:</li>
+  <ul>
+    <li><b>Name:</b> Justin Guida</li>
+    <li><b>Year:</b> 2025</li>
+    <li><b>GitHub:</b> <a href="https://github.com/jguida941" target="_blank">https://github.com/jguida941</a></li>
+  </ul>
+</ul>
 
----
+<hr>
 
-#  Educational Terms
+## <h3>🎓 Educational Use Terms</h3>
+<ul>
+  <li>Use this tool in lessons, demos, or assignments</li>
+  <li>Modify and explore it freely for academic learning</li>
+  <li>Ensure visible credit appears in repurposed or adapted materials</li>
+</ul>
 
-Educators and students are encouraged to:
-- Use this tool in lessons, demos, or assignments  
-- Modify and explore it freely for academic learning  
-- Ensure visible credit appears in repurposed or adapted materials  
+<h3> Learn from the Best:</h3>
+<ul>
+  <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp: Scientific Python</a></li>
+  <li><a href="https://cs50.harvard.edu/x/" target="_blank">Harvard CS50x 2024</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Cryptography" target="_blank">Cryptographic Methods</a></li>
+</ul>
 
----
-
-## Attribution Link to learn about scientific computing and cyrptology.
-[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
-
-<h2>Learn from the Best:</h2>
-<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" style="padding:10px 16px;background:#006400;color:white;border-radius:8px;margin-right:8px;text-decoration:none;">
-  
-   FreeCodeCamp: Scientific Python
-  
-</a>
-<a href="https://cs50.harvard.edu/x/2024/" target="_blank" style="padding:10px 16px;background:#a41034;color:white;border-radius:8px;margin-right:8px;text-decoration:none;">
-  
-   Harvard CS50x 2024
-  
-</a>
-<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-special-methods-by-building-a-vector-space" target="_blank" style="padding:10px 16px;background:#4B0082;color:white;border-radius:8px;text-decoration:none;">
-  
-   Cryptographic Methods
-  
-</a>
+<p style="font-size: 0.9em;">
+💡 <i>Attribution link:</i> 
+<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
+https://creativecommons.org/licenses/by-nc/4.0/</a>
+</p> 
