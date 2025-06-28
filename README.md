@@ -5,7 +5,7 @@
 **Author:** [Justin Guida](https://github.com/jguida941)  
 **Resume** [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
 
----
+
 
 ## Overview
 
@@ -35,7 +35,7 @@ It is a standalone tool based on real modular arithmetic, character mapping, and
 ## Main Interface Preview 
 <img width="1195" alt="Screenshot 2025-06-27 at 10 18 09 PM" src="https://github.com/user-attachments/assets/b5174655-6163-4e40-856f-27b8a8a2759c" />
 
-## Encrpytion
+## Encryption
 <img width="1197" alt="Screenshot 2025-06-27 at 10 18 49 PM" src="https://github.com/user-attachments/assets/5da211a7-97e6-44e0-899d-0e331e3bacbf" />
 
 ## Decryption
