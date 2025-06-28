@@ -89,7 +89,7 @@ Toggle debug mode to show raw values, intermediate results, and contextual expla
 
 ## 📸 Screenshots
 
-## Main Interface RSA Setup  
+# Main Interface RSA Setup  
 **Define primes, generate public/private keys, and view entropy ratings in real time.**
 
 <img width="1195" alt="Screenshot 2025-06-27 at 10 18 09 PM" src="https://github.com/user-attachments/assets/b5174655-6163-4e40-856f-27b8a8a2759c" />
