@@ -4,14 +4,12 @@
 **Tech Stack:** Python, PyQt6  
 **Author:** [Justin Guida](https://github.com/jguida941)  
 
-
-> Visual RSA Cryptography Demo: Encrypts and decrypts basic RSA keys with full step-by-step GUI visualization using PyQt6. Ideal for education, CTFs, and cryptography learners.
-
 ---
 
 ## Overview
 
-**MiniRSA_Breaker** is an an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational purposes. It is a standalone tool based on real modular arithmetic, character mapping, and key generation—demonstrating how passwords and encryption can be reversed using only math.
+**MiniRSA_Breaker** is an an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational purposes. 
+**It is a standalone tool based on real modular arithmetic, character mapping, and key generation—demonstrating how passwords and encryption can be reversed using only math.
 ---
 
 ## Features
