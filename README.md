@@ -96,23 +96,23 @@ Toggle debug mode to show raw values, intermediate results, and contextual expla
 
 ---
 
-## Encryption Panel  
+# Encryption Panel  
 ## Watch your message get encrypted character by character using modular exponentiation.
 
 <img width="1197" alt="Screenshot 2025-06-27 at 10 18 49 PM" src="https://github.com/user-attachments/assets/5da211a7-97e6-44e0-899d-0e331e3bacbf" />
 
 ---
 
-## Decryption Panel  
+# Decryption Panel  
 ## Reverse the cipher text and view RSA logic in reverse using your private key.
 
 <img width="1194" alt="Screenshot 2025-06-27 at 10 19 22 PM" src="https://github.com/user-attachments/assets/40b65622-5c40-4cc8-9fd7-bbe587868c8b" />
 
 ---
 
-## 🚀  How to Run:
+# 🚀  How to Run:
 
-Follow these steps to launch **MiniRSA_Breaker** locally:
+# Follow these steps to launch **MiniRSA_Breaker** locally:
 
 ### 1. Clone the Repository
 ```bash
@@ -135,9 +135,9 @@ pip install -r requirements.txt
 ```bash
 python rsa.py
 ```
-##  How to it really Runs on macOS:
 
-<h2>🗑️🔥 How to Run on macOS:</h2>
+
+## <h2>🗑️🔥 How it really Runs on macOS:</h2>
 
 <p>App runs fully offline  no network needed, just on Steve Jobs’ soul, plus splotlight prob bricked your shit already.</p>
 
@@ -157,7 +157,7 @@ python rsa.py
 [STATUS]  RUNNING IN GODMODE 
 </code></pre>
 
-## 📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+# 📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 © 2025 Justin Guida  
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
@@ -180,7 +180,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 
 ---
 
-##  Educational Terms
+#  Educational Terms
 
 Educators and students are encouraged to:
 - Use this tool in lessons, demos, or assignments  
@@ -189,7 +189,7 @@ Educators and students are encouraged to:
 
 ---
 
-##  Attribution Link to learn about scientific computing and cyrptology.
+## Attribution Link to learn about scientific computing and cyrptology.
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <h2>Learn from the Best:</h2>
