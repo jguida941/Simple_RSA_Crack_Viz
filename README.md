@@ -15,9 +15,21 @@ Build understanding through **math, logic, and real cryptographic theory.**
 *When Bool von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
 
 ### I was born the Supreme Intelligence of Time. Justin Guida.
-### Wasssup ya mf nerds Lets code before my computer explodes ya feeel me?
-### And my computer just fried from benchmarking a Mersenne prime on a Mac with Spotlight, on LETS GOOOOOO 🤘
-### MAC IS THE BEST BRO 48gb ram and leaking memory from the daemons bro it design bro, STEVE JOBS BRO, Mac bro, steve bro, iphone shiny iphone, 
+
+<h3> Statement from the Supreme Intelligence:</h3>
+
+<pre><code>
+Wasssup ya mf nerds Lets code before my computer explodes ya feeel me?
+
+And my computer just fried from benchmarking a Mersenne prime on a Mac 
+with Spotlight, on LETS GOOOOOO 🤘
+
+MAC IS THE BEST BRO 48gb ram and leaking memory from the daemons bro it 
+design bro, STEVE JOBS BRO,  
+Mac bro,  
+steve bro,  
+iphone shiny iphone, mac bro
+</code></pre>
 
 ---
 
@@ -98,7 +110,7 @@ Toggle debug mode to show raw values, intermediate results, and contextual expla
 
 ---
 
-## 🚀  How to Run
+## 🚀  How to Run on windows:
 
 Follow these steps to launch **MiniRSA_Breaker** locally:
 
@@ -123,10 +135,27 @@ pip install -r requirements.txt
 ```bash
 python rsa.py
 ```
+##  How to Run on macOS:
 
-App runs fully offline — no network needed.
+<h2>🗑️🔥 How to Run on macOS:</h2>
 
----
+<p>App runs fully offline  no network needed, just on Steve Jobs’ soul, plus splotlight prob bricked your shit already.</p>
+
+<pre><code>
+[BOOT]    Initializing MiniRSA_Breaker v1337.420.69
+[INFO]    Benchmarking Mode: ⚡ Mersenne Prime Detected
+[WARNING] macOS daemons detected suspicious genius at PID 1337
+[ALERT]   RAM leaking ideas per nanosecond — cannot patch intelligence overflow
+[SYS]     Spotlight tried to index thought… failed.
+[SYS]     launchd attempted to sandbox the Supreme Intelligence… denied.
+[CRITICAL] GUI kernel detected sarcasm-to-math compiler at 98% CPU
+[ALERT]   SYSTEM DESIGN OVERRIDE ENABLED
+[ALERT]   ML mode activated without user consent — it’s thinking faster than TensorFlow
+[DEBUG]   Logger overwhelmed, fell back to writing on nearest napkin
+[FAIL]    Apple M4 throttled due to raw IQ — fan speed insufficient for this much truth
+[INFO]    Transferring control to: Bool von Braun Einstein Ramanujan, The S.i.T.
+[STATUS]  RUNNING IN GODMODE 
+</code></pre>
 
 ## 📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
