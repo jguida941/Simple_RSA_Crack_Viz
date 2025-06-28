@@ -16,15 +16,28 @@ It is a standalone tool based on real modular arithmetic, character mapping, and
 ---
 
 ## Features
+##  Overview
 
-- **RSA Key Generation** (small primes, custom or random)
-- Modular Exponentiation: e and d keys calculated live
-- Full Character-to-Integer Mapping (A=01 to Z=26, symbols optional)
--	Encryption & Decryption panels
-- Visual Breakdown of all RSA calculations
--	Error Handling for invalid inputs
--	Offline, Fully Local GUI
-- Educational comments and debug views built into UI
+**MiniRSA_Breaker** is an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational and instructional use.
+
+It demonstrates how password encryption can be reversed using only **modular arithmetic**, **character mapping**, and **key pair generation**. The system uses actual RSA rules and runs fully offline.
+
+This tool is a simplified branch of a more advanced RSA-cracking system, **Breacher**, and focuses on foundational mathematical insight.
+
+---
+
+## ✨ Features
+
+- 🔑 RSA Key Generation (custom or random small primes)
+- 🧮 Live Modular Exponentiation (e/d key generation)
+- 🔢 Character-to-Integer Mapping (A=01 to Z=26, symbols optional)
+- 🔐 Full Encryption & Decryption Panels
+- 🧩 Visual Step-by-Step Calculation View
+- ❗ Input Validation & Error Handling
+- 💻 Offline, Fully Local GUI Application
+- 🧾 Debug Output & Educational Comments
+
+---
 
 
 ## Screenshots
