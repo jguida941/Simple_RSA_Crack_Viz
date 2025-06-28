@@ -1,17 +1,20 @@
 # 🔐 MiniRSA_Breaker
 
-**Category:** Cryptography / Educational Visualization  
+**All students and educators welcome. Build understanding through math, logic, and real cryptographic theory.**
+
+**Category:**   Cryptography / Educational Visualization  
 **Tech Stack:** Python, PyQt6  
-**Author:** [Justin Guida](https://github.com/jguida941)  
-**Resume:** [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
-**⭐ If you find this project useful, please consider starring it!**
+**Author:**     [Justin Guida](https://github.com/jguida941)  
+**Resume:**     [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
+
+ **⭐ If you find this project useful, please consider starring it!**
 
 
 Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
 **this tool was built for you**
 
 > ⚠️ *This **won't teach you how** to break secure RSA encryption.*  
-> But... with the **right math and curiosity**, thats **a different story**, lets keep it at that. 😉
+> But... with the **right math and curiosity**, thats **a different story**, lets keep it at that. 
 
 ---
 
@@ -42,24 +45,24 @@ Runs entirely on your device — no web server, no uploads, just fast, secure lo
 **Debug Mode & Educational Hints**  
 Toggle debug mode to show raw values, intermediate results, and contextual explanations at every step.
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Main Interface RSA Setup  
-Define primes, generate public/private keys, and view entropy ratings in real time.
+## Main Interface RSA Setup  
+**Define primes, generate public/private keys, and view entropy ratings in real time.**
 
 <img width="1195" alt="Screenshot 2025-06-27 at 10 18 09 PM" src="https://github.com/user-attachments/assets/b5174655-6163-4e40-856f-27b8a8a2759c" />
 
 ---
 
-### Encryption Panel  
-Watch your message get encrypted character by character using modular exponentiation.
+## Encryption Panel  
+## Watch your message get encrypted character by character using modular exponentiation.
 
 <img width="1197" alt="Screenshot 2025-06-27 at 10 18 49 PM" src="https://github.com/user-attachments/assets/5da211a7-97e6-44e0-899d-0e331e3bacbf" />
 
 ---
 
-### Decryption Panel  
-Reverse the cipher text and view RSA logic in reverse using your private key.
+## Decryption Panel  
+## Reverse the cipher text and view RSA logic in reverse using your private key.
 
 <img width="1194" alt="Screenshot 2025-06-27 at 10 19 22 PM" src="https://github.com/user-attachments/assets/40b65622-5c40-4cc8-9fd7-bbe587868c8b" />
 
