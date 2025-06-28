@@ -7,12 +7,16 @@
 **Author:**     **[Justin Guida](https://github.com/jguida941)**  
 **Resume:**     **[View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)** 
 
-**⭐** **If you find this project useful, please consider starring it!**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jguida941/MiniRSA_Breaker/main/media/banner.png" width="600">
-</p>
+<img src="media/banner.png" alt="MiniRSA_Breaker Banner" align="left" width="300" style="margin-right: 20px;">
 
+This project allows interactive RSA encryption and decryption with full step-by-step visual feedback.
+
+Use it to:
+- Teach RSA key concepts
+- Break down modular exponentiation
+- Compare weak vs. strong keys
+- 
 Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
 **this tool was built for you**
 
