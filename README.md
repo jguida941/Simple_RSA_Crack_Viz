@@ -8,7 +8,10 @@
 **Resume:**     **[View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)** 
 
 **⭐** **If you find this project useful, please consider starring it!**
- 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jguida941/MiniRSA_Breaker/main/media/banner.png" width="600">
+</p>
 
 Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
 **this tool was built for you**
