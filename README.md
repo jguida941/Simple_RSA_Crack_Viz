@@ -3,6 +3,7 @@
 **Category:** Cryptography / Educational Visualization  
 **Tech Stack:** Python, PyQt6  
 **Author:** [Justin Guida](https://github.com/jguida941)  
+**Resume** [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
 
 ---
 
