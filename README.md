@@ -10,7 +10,7 @@ Build understanding through **math, logic, and real cryptographic theory.**
 
 ---
 
-## 🧠 Designed by:
+## Designed by:
 
 *When Bool von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
 
@@ -139,12 +139,12 @@ python rsa.py
 <h2>🗑️🔥 How it <i>Really</i> Runs on macOS:</h2>
 
 <p>
-App runs fully offline — no network needed, just on Steve Jobs’ soul.<br>
+App runs fully offline, no network needed, just on Steve Jobs’ soul.<br>
 Plus Spotlight probably bricked your system already.
 </p>
 
-<p><b>Step 1:</b> Be ready for <code>mds</code>, <code>mdworker</code>, <code>corespotlightd</code>, <code>sysmond</code> —  
-the whole squad wakes up like it’s <b>DEFCON 1</b> and starts re-indexing 48GB of RAM  
+<p><b>Step 1:</b> Be ready for <code>mds</code>, <code>mdworker</code>, <code>corespotlightd</code>, <code>sysmond</code> amd  
+the whole squad to wake up like it’s <b>DEFCON 1</b> and starts re-indexing 48GB of RAM  
 while you’re just trying to run a prime test.</p>
 
 <pre><code>
@@ -197,7 +197,7 @@ This project is licensed under the <b>Creative Commons Attribution-NonCommercial
 
 <hr>
 
-## <h3>🎓 Educational Use Terms</h3>
+## <h3> Educational Use Terms</h3>
 <ul>
   <li>Use this tool in lessons, demos, or assignments</li>
   <li>Modify and explore it freely for academic learning</li>
