@@ -25,22 +25,22 @@ Whether you're a **teacher**, a **CS student**, or just **someone fascinated by 
 Generate custom or random small prime keys instantly.
 
 **Modular Exponentiation Engine**  
-Performs `c = m^e mod n` and `m = c^d mod n` using Python’s `pow()` function — real, fast RSA behavior.
+Performs `c = m^e mod n` and `m = c^d mod n` using Python’s `pow()` function, real, fast RSA behavior.
 
 **Character Mapping System**  
 Maps characters **A–Z** to integers **01–26**, with optional symbol support for extended messages.
 
 **Encryption & Decryption Panels**  
-Visualize the full message transformation — from plaintext to ciphertext and back — in real time.
+Visualize the full message transformation — from plaintext to ciphertext and back,  in real time.
 
 **Step-by-Step Math Breakdown**  
 Each stage of RSA math is clearly explained and animated for learning purposes.
 
 **Error Handling + Input Validation**  
-Smart checks catch invalid primes, characters, and unsupported input types — with helpful messages.
+Smart checks catch invalid primes, characters, and unsupported input types, with helpful messages.
 
 **100% Offline Application**  
-Runs entirely on your device — no web server, no uploads, just fast, secure local computation.
+Runs entirely on your device , no web server, no uploads, just fast, secure local computation.
 
 **Debug Mode & Educational Hints**  
 Toggle debug mode to show raw values, intermediate results, and contextual explanations at every step.
