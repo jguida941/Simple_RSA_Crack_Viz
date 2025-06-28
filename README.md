@@ -6,7 +6,7 @@
 **Resume** [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
 
 
-##  Overview
+## 🌀 Overview
 
 **MiniRSA_Breaker** is an interactive PyQt6 application that visualizes the RSA encryption and decryption process for educational and instructional use.
 
@@ -30,7 +30,7 @@ This tool is a simplified branch of a more advanced RSA-cracking system, **Breac
 ---
 
 
-## Screenshots
+## 📷 Screenshots
 
 
 
@@ -49,7 +49,7 @@ This tool is a simplified branch of a more advanced RSA-cracking system, **Breac
 
 ---
 
-## How to Run 🖥️
+## 🖥️ How to Ru
 
 
 1.  **Clone the repository:**
