@@ -104,7 +104,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 
 ###  You May:
 -  **Share** — Copy, distribute, and share the code  
-- ✔**Adapt** — Remix, transform, or build upon it for personal or academic purposes  
+- **Adapt** — Remix, transform, or build upon it for personal or academic purposes  
 
 ###  You May Not:
 - Use this work for commercial purposes  
