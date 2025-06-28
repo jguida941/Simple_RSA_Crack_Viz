@@ -13,11 +13,11 @@
 
 It is a standalone tool based on real modular arithmetic, character mapping, and key generation. Demonstrating how passwords and encryption can be reversed using only math
 
--- 
+---
 
 ## Features
 
--RSA Key Generation (small primes, custom or random)
+- **RSA Key Generation** (small primes, custom or random)
 - Modular Exponentiation: e and d keys calculated live
 - Full Character-to-Integer Mapping (A=01 to Z=26, symbols optional)
 -	Encryption & Decryption panels
