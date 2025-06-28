@@ -121,7 +121,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 
 ---
 
-## 🎓 Educational Terms
+##  Educational Terms
 
 Educators and students are encouraged to:
 - Use this tool in lessons, demos, or assignments  
@@ -130,5 +130,5 @@ Educators and students are encouraged to:
 
 ---
 
-## 🖋️ Attribution Link
+##  Attribution Link
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
