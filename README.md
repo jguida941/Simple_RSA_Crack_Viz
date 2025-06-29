@@ -30,7 +30,7 @@ This project enables **interactive RSA encryption and decryption**, with full st
 **this tool was built for you**
 
 > ⚠️ This won't **teach you how** to break secure RSA encryption.  
-> But... with the **right math and curiosity**, thats  different story.
+> But... with the **right math and curiosity**, thats a different story.
 <br>
  
  ## Designed by:
