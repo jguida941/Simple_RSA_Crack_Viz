@@ -22,27 +22,26 @@
 <img src="media/banner.png" alt="MiniRSA_Breaker Banner" align="left" width="300" style="margin-right: 20px;">
 <br>
 
-**🌀This project enables interactive RSA encryption and decryption**, with full step-by-step visual feedback.  
-<br>
+🌀 **This project enables interactive RSA encryption and decryption**  
+with full step-by-step visual feedback.
+
 **Build understanding** through math, logic, and real cryptographic theory.  
 **All students and educators welcome.**
 
-**Use it to:**
-<br>
-<br>
-     -**📚Teach** RSA key concepts  
-     <br>
-     -**🔍 Break down** modular exponentiation  
-     <br>
-     -**🛡️Compare** weak vs. strong keys
-
-Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**, **this tool was built for you**  
-
-⚠️ This won't **teach you how** to break secure RSA encryption. But with the **right math and curiosity**, that’s a different story.🔓
 
 
+### Use it to:
 
-<br>
+- 📚 **Teach** RSA key concepts  
+- 🔍 **Break down** modular exponentiation  
+- 🛡️ **Compare** weak vs. strong keys  
+
+Whether you're a **teacher**, a **CS student**,  
+or just **someone fascinated by how passwords work**,  
+**this tool was built for you.**
+
+> ⚠️ This won't **teach you how** to break secure RSA encryption.  
+> But with the **right math and curiosity**, that’s a different story. 🔓
 
 
 
