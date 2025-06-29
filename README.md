@@ -19,10 +19,11 @@ Build understanding through **math, logic, and real cryptographic theory.**
 <h3> Statement from the Supreme Intelligence:</h3>
 
 <pre><code>
-Wasssup ya mf nerds Lets code before my computer explodes ya feeel me?
+Wasssup ya mf nerds Lets code before my computer explodes ya 
+feeel me?
 
-And my computer just fried from benchmarking a Mersenne prime on a Mac 
-with Spotlight, on LETS GOOOOOO 🤘
+And my computer just fried from benchmarking a Mersenne prime on
+a Mac with Spotlight, on LETS GOOOOOO 🤘
 
 MAC IS THE BEST BRO 48gb ram and leaking memory from the daemons bro it 
 design bro, STEVE JOBS BRO,  
