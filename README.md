@@ -75,46 +75,46 @@ Toggle debug mode to show raw values, intermediate results, and contextual expla
 
 # 📸 Screenshots
 
-## Main Interface RSA Setup: Define primes, generate public/private keys, and view entropy ratings in real time.
+### Main Interface RSA Setup: Define primes, generate public/private keys, and view entropy ratings in real time.
 
 <img width="1195" alt="Screenshot 2025-06-27 at 10 18 09 PM" src="https://github.com/user-attachments/assets/b5174655-6163-4e40-856f-27b8a8a2759c" />
 
 ---
 
-## 🔐 Encryption Panel: Watch your message get encrypted character by character using modular exponentiation.
+### 🔐 Encryption Panel: Watch your message get encrypted character by character using modular exponentiation.
 
 <img width="1197" alt="Screenshot 2025-06-27 at 10 18 49 PM" src="https://github.com/user-attachments/assets/5da211a7-97e6-44e0-899d-0e331e3bacbf" />
 
 ---
 
-## 🕵️ Decryption Panel: Reverse the cipher text and view RSA logic in reverse using your private key.
+### 🕵️ Decryption Panel: Reverse the cipher text and view RSA logic in reverse using your private key.
 
 <img width="1194" alt="Screenshot 2025-06-27 at 10 19 22 PM" src="https://github.com/user-attachments/assets/40b65622-5c40-4cc8-9fd7-bbe587868c8b" />
 
 ---
 
-# 🚀  How to Run:
+## 🚀  How to Run:
 
-# Follow these steps to launch **MiniRSA_Breaker** locally:
+### Follow these steps to launch **MiniRSA_Breaker** locally:
 
-### 1. Clone the Repository
+ **1. Clone the Repository**
 ```bash
 git clone https://github.com/jguida941/MiniRSA_Breaker.git
 cd MiniRSA_Breaker
 ```
 
-### 2. Create a virtual environment (recommended)
+**2. Create a virtual environment (recommended)**
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-### 3. Install dependencies
+**3. Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Launch the app
+**4. Launch the app**
 ```bash
 python rsa.py
 ```
