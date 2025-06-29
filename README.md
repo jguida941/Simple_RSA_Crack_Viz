@@ -149,26 +149,27 @@ the whole squad to wake up like it’s <b>DEFCON 1</b> and starts re-indexing 48
 while you’re just trying to run a prime test.</p>
 
 <pre><code>
-[BOOT]    Initializing MiniRSA_Breaker v1337.420.69
-[INFO]    Benchmarking Mode: ⚡ Mersenne Prime Detected. 1000GB to SSD — BRO.
-[WARNING] macOS daemons detected suspicious genius at PID 1337 
-          Spotlight auto-enabled: why? Who fucking knows, Apple Bro.
-[ALERT]   RAM leaking ideas per nanosecond cannot patch intelligence overflow
+[BOOT]     Initializing MiniRSA_Breaker v1337.420.69
+[INFO]     Benchmarking Mode: ⚡ Mersenne Prime Detected. 1000GB to SSD — BRO.
+[WARNING]  macOS daemons detected suspicious genius at PID 1337 
+           Spotlight auto-enabled: why? Who fucking knows, Apple Bro.
+[ALERT]    RAM leaking ideas per nanosecond cannot patch intelligence overflow
            Head Apple designer: “It’s design, bro.”
-[SYS]     Spotlight tried to index thought… failed.
+[SYS]      Spotlight tried to index thought… failed.
            iPhone camera 4x, bro. It's innonovation bro
-[SYS]     launchd attempted to sandbox the Supreme Intelligence… denied.
+[SYS]      launchd attempted to sandbox the Supreme Intelligence… denied.
 [CRITICAL] GUI kernel at 98% CPU — M4 triggered kernel dump, 50GB of mental models.
-[ALERT]   SYSTEM DESIGN OVERRIDE ENABLED — “Let’s keep it running tho. M4, bro.”
-[ALERT]   ML mode activated without user consent.
-[CRTICAL] Thinking faster than TensorFlow
-          ML model of Steve Jobs’ soul created. 
-[DEBUG]   Logger overwhelmed , Steve brain too big.
-[FAIL]    Apple M4 throttled due to raw IQ, still quiet tho, APPLE BRO
-[INFO]    Transferring control to Steve.
-[STATUS]  AI SUPER INTELLIGENCE ACHIEVED.
+[ALERT]    SYSTEM DESIGN OVERRIDE ENABLED — “Let’s keep it running tho. M4, bro.”
+[ALERT]    ML mode activated without user consent.
+[CRTICAL]  Thinking faster than TensorFlow
+           ML model of Steve Jobs’ soul created. 
+[DEBUG]    Logger overwhelmed , Steve brain too big.
+[FAIL]     Apple M4 throttled due to raw IQ, still quiet tho, APPLE BRO
+[INFO]     Transferring control to Steve.
+[STATUS]   AI SUPER INTELLIGENCE ACHIEVED.
 [CRITICAL] AI SUPER INTELLIGENCE : Spotlight re-indexing 
-[STATUS]   Apple daemons attempting to re-index all of humanitys knowledge, for fuck knows why.
+[STATUS]   Apple daemons attempting to re-index all of humanitys knowledge, 
+           for fuck knows why.
 [CRITICAL] AI SUPER INTELLIGNECE DEAD BRO. Better take it to the apple store.
 </code></pre>
 
