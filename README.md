@@ -1,16 +1,39 @@
 # 🔐 MiniRSA_Breaker
 
-**All students and educators welcome.**  
-Build understanding through **math, logic, and real cryptographic theory.**
-
 **Category:** Cryptography / Educational Visualization  
 **Tech Stack:** Python, PyQt6  
 **Author:** [Justin Guida](https://github.com/jguida941)  
 **Resume:** [View My Live Resume on Indeed →](https://profile.indeed.com/p/justing-yqigd8r)
 
+Build understanding through math, logic, and real cryptographic theory.
+
+
+**All students and educators welcome.**  
+
 ---
 
-## Designed by:
+
+<img src="media/banner.png" alt="MiniRSA_Breaker Banner" align="left" width="300" style="margin-right: 20px;">
+
+
+
+
+This project enables **interactive RSA encryption and decryption**, with full step-by-step visual feedback.
+
+**Use it to:**
+- **Teach** RSA key concepts  
+- **Break down** modular exponentiation  
+- **Compare** **weak vs. strong keys**
+
+
+  - Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
+**this tool was built for you**
+
+> ⚠️ This won't **teach you how** to break secure RSA encryption.  
+> But... with the **right math and curiosity**, thats  different story.
+<br>
+ 
+ ## Designed by:
 
 *When Bool, Von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
 
@@ -31,29 +54,6 @@ Mac bro,
 steve bro,  
 iphone shiny iphone, Mac bro
 </code></pre>
-
----
-
-<img src="media/banner.png" alt="MiniRSA_Breaker Banner" align="left" width="300" style="margin-right: 20px;">
-
-
-
-
-
-This project enables **interactive RSA encryption and decryption**, with full step-by-step visual feedback.
-
-**Use it to:**
-- **Teach** RSA key concepts  
-- **Break down** modular exponentiation  
-- **Compare** **weak vs. strong keys**
-
-
-  - Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**,  
-**this tool was built for you**
-
-> ⚠️ **This won't teach you how to break secure RSA encryption.  
-> But... with the right math and curiosity, thats  different story, lets keep it at that** 
- 
 
 <br clear="left">
 
