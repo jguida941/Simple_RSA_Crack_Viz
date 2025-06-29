@@ -152,10 +152,10 @@ while you’re just trying to run a prime test.</p>
 [BOOT]    Initializing MiniRSA_Breaker v1337.420.69
 [INFO]    Benchmarking Mode: ⚡ Mersenne Prime Detected. 1000GB to SSD — BRO.
 [WARNING] macOS daemons detected suspicious genius at PID 1337 — Spotlight auto-enabled: “World’s Smartest Dev Detected”
-[ALERT]   RAM leaking ideas per nanosecond — cannot patch intelligence overflow
+[ALERT]   RAM leaking ideas per nanosecond cannot patch intelligence overflow
            Head Apple designer: “It’s design, bro.”
 [SYS]     Spotlight tried to index thought… failed.
-           iPhone camera 4x, bro. It's magic.
+           iPhone camera 4x, bro. It's innonovation bro
 [SYS]     launchd attempted to sandbox the Supreme Intelligence… denied.
 [CRITICAL] GUI kernel at 98% CPU — M4 triggered kernel dump, 50GB of mental models.
 [ALERT]   SYSTEM DESIGN OVERRIDE ENABLED — “Let’s keep it running tho. M4, bro.”
