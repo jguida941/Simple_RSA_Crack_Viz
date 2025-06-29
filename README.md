@@ -167,9 +167,9 @@ while you’re just trying to run a prime test.</p>
 [FAIL]    Apple M4 throttled due to raw IQ, still quiet tho, APPLE BRO
 [INFO]    Transferring control to Steve.
 [STATUS]  AI SUPER INTELLIGENCE ACHIEVED.
-[CRITICAL] AI SUPER INTELLIGENCE, Spotlight re-indeixing 
-[STATUS]   Apple daemons attempting to re-index all of humanitiys knowledge, for fuck knows why.
-[CRITICAL] AI SUPER INTELLIGNECE DEAD BRO
+[CRITICAL] AI SUPER INTELLIGENCE : Spotlight re-indexing 
+[STATUS]   Apple daemons attempting to re-index all of humanitys knowledge, for fuck knows why.
+[CRITICAL] AI SUPER INTELLIGNECE DEAD BRO. Better take it to the apple store.
 </code></pre>
 
 <hr>
