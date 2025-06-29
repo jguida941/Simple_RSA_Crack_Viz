@@ -162,10 +162,10 @@ while you’re just trying to run a prime test.</p>
 [ALERT]   SYSTEM DESIGN OVERRIDE ENABLED — “Let’s keep it running tho. M4, bro.”
 [ALERT]   ML mode activated without user consent — thinking faster than TensorFlow
           because it runs in Steve Jobs’ will.
-[DEBUG]   Logger overwhelmed — fell back to writing on nearest napkin.
-[FAIL]    Apple M4 throttled due to raw IQ — fan speed insufficient for this much truth.
+[DEBUG]   Logger overwhelmed , fell back to writing on nearest napkin.
+[FAIL]    Apple M4 throttled due to raw IQ, stinn quiet tho, APPLE BRO
 [INFO]    Transferring control to: Bool von Braun Einstein Ramanujan, The S.i.T.
-[STATUS]  RUNNING IN GODMODE 🔥
+[STATUS]  COMPUTER BRICKED RUNNING BENCHMARKS🔥
 </code></pre>
 
 <hr>
