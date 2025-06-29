@@ -170,15 +170,15 @@ while you’re just trying to run a prime test.</p>
 [CRITICAL] AI SUPER INTELLIGENCE : Spotlight re-indexing 
 [STATUS]   Apple daemons attempting to re-index all of humanitys knowledge, 
            for fuck knows why.
-[INFO]    Initializing vNEURAL_JOBS_1.0…  
-[INPUT]   Detected: USB-C  REJECTED  
-[INPUT]   Detected: AC Power REJECTED  
-[SOURCE]  Sunlight → accepted ☀️  
-[WARNING] Model refuses to run in shade.  
-[ERROR]   Energy source too artificial.  
-[DEATH]   ML model shut down in silent protest.  
-[CLOSING] Final words: “Batteries are for cowards.”  
-[CRITICAL] AI SUPER INTELLIGNECE DEAD BRO. Better take it to the apple store.
+[INFO]     Initializing vNEURAL_JOBS_1.0…  
+[INPUT]    Detected: USB-C  REJECTED  
+[INPUT]    Detected: AC Power REJECTED  
+[SOURCE]   Sunlight → accepted ☀️  
+[WARNING]  Model refuses to run in shade.  
+[ERROR]    Energy source too artificial.  
+[CRITICAL] ML model shut down in silent protest.  
+[FATAL]    ML Final words: “Batteries are for cowards.”  
+[BRO]      AI SUPER INTELLIGNECE DEAD BRO. Better take it to the apple store.
 </code></pre>
 
 <hr>
