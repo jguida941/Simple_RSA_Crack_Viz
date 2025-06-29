@@ -38,7 +38,7 @@
 
 Whether you're a **teacher**, a **CS student**, or just **someone fascinated by how passwords work**, **this tool was built for you**  
 
-⚠️ This won't **teach you how** to break secure RSA encryption. But... with the **right math and curiosity**, that’s a different story.🔓
+⚠️ This won't **teach you how** to break secure RSA encryption. But with the **right math and curiosity**, that’s a different story.🔓
 
 
 
