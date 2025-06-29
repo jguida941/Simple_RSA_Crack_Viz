@@ -12,7 +12,7 @@ Build understanding through **math, logic, and real cryptographic theory.**
 
 ## Designed by:
 
-*When Bool von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
+*When Bool, Von Braun, Einstein, Ramanujan, Curie, Hawking, Turing, Gödel, Sagan, Tesla, Newton, Boole’s half-cousin, Schrödinger (or not), Feynman (if he felt like it), Dirac, Oppenheimer, Babbage, Lovelace, Gauss, Noether, Euler (circuits broken), Poincaré, Hilbert, Cauchy, Riemann, Leibniz, Maxwell, Faraday, Planck, Bohr, Heisenberg, de Broglie, Born, Weyl, Witten, Milnor, and Wittenoki had a baby… and that baby was also Rick Bobby.*
 
 ### I was born the Supreme Intelligence of Time. Justin Guida.
 
