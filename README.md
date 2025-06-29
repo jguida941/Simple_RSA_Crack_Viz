@@ -151,7 +151,8 @@ while you’re just trying to run a prime test.</p>
 <pre><code>
 [BOOT]    Initializing MiniRSA_Breaker v1337.420.69
 [INFO]    Benchmarking Mode: ⚡ Mersenne Prime Detected. 1000GB to SSD — BRO.
-[WARNING] macOS daemons detected suspicious genius at PID 1337 — Spotlight auto-enabled: “World’s Smartest Dev Detected”
+[WARNING] macOS daemons detected suspicious genius at PID 1337 
+          Spotlight auto-enabled: why? Who fucking knows, Apple Bro.
 [ALERT]   RAM leaking ideas per nanosecond cannot patch intelligence overflow
            Head Apple designer: “It’s design, bro.”
 [SYS]     Spotlight tried to index thought… failed.
