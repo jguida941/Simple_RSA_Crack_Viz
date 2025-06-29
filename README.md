@@ -160,12 +160,16 @@ while you’re just trying to run a prime test.</p>
 [SYS]     launchd attempted to sandbox the Supreme Intelligence… denied.
 [CRITICAL] GUI kernel at 98% CPU — M4 triggered kernel dump, 50GB of mental models.
 [ALERT]   SYSTEM DESIGN OVERRIDE ENABLED — “Let’s keep it running tho. M4, bro.”
-[ALERT]   ML mode activated without user consent — thinking faster than TensorFlow
-          because it runs in Steve Jobs’ will.
-[DEBUG]   Logger overwhelmed , fell back to writing on nearest napkin.
-[FAIL]    Apple M4 throttled due to raw IQ, stinn quiet tho, APPLE BRO
-[INFO]    Transferring control to: Bool von Braun Einstein Ramanujan, The S.i.T.
-[STATUS]  COMPUTER BRICKED RUNNING BENCHMARKS🔥
+[ALERT]   ML mode activated without user consent.
+[CRTICAL] Thinking faster than TensorFlow
+          ML model of Steve Jobs’ soul created. 
+[DEBUG]   Logger overwhelmed , Steve brain too big.
+[FAIL]    Apple M4 throttled due to raw IQ, still quiet tho, APPLE BRO
+[INFO]    Transferring control to Steve.
+[STATUS]  AI SUPER INTELLIGENCE ACHIEVED.
+[CRITICAL] AI SUPER INTELLIGENCE, Spotlight re-indeixing 
+[STATUS]   Apple daemons attempting to re-index all of humanitiys knowledge, for fuck knows why.
+[CRITICAL] AI SUPER INTELLIGNECE DEAD BRO
 </code></pre>
 
 <hr>
