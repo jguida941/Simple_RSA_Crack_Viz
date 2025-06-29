@@ -25,11 +25,11 @@ feeel me?
 And my computer just fried from benchmarking a Mersenne prime on
 a Mac with Spotlight, on LETS GOOOOOO 🤘
 
-MAC IS THE BEST BRO 48gb ram and leaking memory from the daemons bro it 
+MAC IS THE BEST BRO 48gb ram, and leaking memory from the daemons bro, it's the 
 design bro, STEVE JOBS BRO,  
 Mac bro,  
 steve bro,  
-iphone shiny iphone, mac bro
+iphone shiny iphone, Mac bro
 </code></pre>
 
 ---
